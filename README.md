@@ -1,0 +1,1 @@
+This project consists of a Multi-layer Feedforward Neural Network having 3 hidden layers, uses ReLu Activation function and a Learning rate of 0.0001, which predicts the Remaining Useful Life of a EV Battery.
